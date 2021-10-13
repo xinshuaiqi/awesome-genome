@@ -3,6 +3,12 @@
 
 ### *Machine Learning in Genomics*
 
+
+### reviews
+### [**Deep learning** for plant **genomics** and crop improvement](https://www.sciencedirect.com/science/article/pii/S1369526619301256)
+
+
+
 - [deep_learning_DNA](https://github.com/onceupon/deep_learning_DNA) - Classifying human DNA sequence and random ATCG sequences, using keras CNN
 - [DeepMod](https://github.com/WGLab/DeepMod) - takes long-read signals as input and outputs modification summary for each genomic position in a reference genome together with modification prediction for each base in a long read. 
 - [janggu](https://github.com/BIMSBbioinfo/janggu) - a python package that facilitates deep learning in the context of genomics
